@@ -1,6 +1,6 @@
 <use name="DataFormats/VertexReco"/>
 <use name="DataFormats/PatCandidates"/>
-<use name="FWCore/PluginManager"/>
+<use name="FWCore/Framework"/>
 <use name="DataFormats/Common"/>
 <use name="flashgg/MicroAODFormats"/>
 <use name="roottmva"/>
